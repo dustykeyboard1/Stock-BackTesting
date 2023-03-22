@@ -1,0 +1,4 @@
+ google-cloud-bigquery
+ alpaca_trade_api
+ datetime
+ 
